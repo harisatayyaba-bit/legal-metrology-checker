@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+tests/
+data/
+.pytest_cache
+.venv
+venv
+ENV
+.git
+.gitignore
+tools/realesrgan/*.exe
+tools/realesrgan/*.dll
+tools/realesrgan/*.mp4
+.DS_Store
+Thumbs.db
